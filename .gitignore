@@ -14,5 +14,8 @@ env/
 .vscode/
 .idea/
 
+# Private notes — never publish
+NOTES.md
+
 # Manim partial outputs
 *.log
