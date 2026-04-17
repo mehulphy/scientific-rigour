@@ -1,0 +1,18 @@
+# Manim renders — always reproducible, never commit
+**/renders/
+**/media/
+**/__pycache__/
+**/*.pyc
+*.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor
+.vscode/
+.idea/
+
+# Manim partial outputs
+*.log
